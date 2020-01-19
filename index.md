@@ -4,6 +4,13 @@ Linux, git, herokuにデプロイまでを習得し、<br>大学でNode.jsを使
 Python, C, Node.jsを用いて、日々の生活をちょっと良くしたい。
 
 ## Profile
-- bnle
-- 関西
-- 得意領域（Web開発、サーバー運用など）
+- Name:bnle
+- Site:関西
+- 得意領域:（フロントエンド,機械学習）
+
+## Skills
+- OS（Mac,Windows,Ubuntuなど）
+- Languages（JavaScript,Python,C）
+- Engine,Frameworks (Sklearn,Keras,OpenCV,pandas)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+
