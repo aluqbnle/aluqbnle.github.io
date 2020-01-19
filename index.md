@@ -18,4 +18,5 @@ Python, C, Node.jsを用いて、日々の生活をちょっと良くしたい�
 
 
 <iframe src="https://www.openprocessing.org/sketch/825152/embed/" width="1000" height="300"></iframe>
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/aluqasa?ref_src=twsrc%5Etfw">Tweets by aluqasa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-width="1000" data-height="600" data-theme="dark" href="https://twitter.com/aluqasa?ref_src=twsrc%5Etfw">Tweets by aluqasa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
