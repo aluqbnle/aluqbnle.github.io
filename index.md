@@ -6,11 +6,11 @@ Python, C, Node.jsを用いて、日々の生活をちょっと良くしたい�
 ## Profile
 - Name:bnle
 - Site:関西
-- 得意領域:（フロントエンド,機械学習）
+- 今の仕事:（フロントエンド, 機械学習, マイコン, GCP, RS232C）
 
 ## Skills
 - OS:（Mac,Windows,Ubuntuなど）
 - Languages:（JavaScript,Python,C）
 - Engine,Frameworks: (Sklearn,Keras,OpenCV,pandas)
 - Tool,MiddleWare:（Git, PostgreSQLなど）
-- 真空で荷電粒子ビームを発生させられる
+- 真空で荷電粒子ビームを発生させられる(大学での研究)
