@@ -13,4 +13,4 @@ Python, C, Node.jsを用いて、日々の生活をちょっと良くしたい�
 - Languages（JavaScript,Python,C）
 - Engine,Frameworks (Sklearn,Keras,OpenCV,pandas)
 - Tool,MiddleWare（Git, PostgreSQLなど）
-
+- 真空で荷電粒子ビームを発生させられる
